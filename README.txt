@@ -1,4 +1,4 @@
-README Solar System Three.js:
+README Solar Disco System Three.js:
 
 This README file will explain how to interact with the HTML/JavaScript files. The user simply needs to open the HTML files through a python local webserver 
 to load the textures and models correctly (do not move the folders containing these files from the same directory as the html files). The following text snippet explains how to open a local webserver:
